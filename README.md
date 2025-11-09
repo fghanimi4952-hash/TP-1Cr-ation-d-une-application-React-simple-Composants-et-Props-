@@ -22,10 +22,11 @@ Accès : **http://localhost:3000**
 
 ##  Résultats
 
- 5 composants créés et intégrés  
- Props et PropTypes implémentés  
- Application fonctionnelle
  
 <img width="784" height="709" alt="Capture d’écran 2025-11-09 à 23 03 19" src="https://github.com/user-attachments/assets/863dcbd8-c47b-4c13-a3f9-b2c42b2329b7" />
+
+## Avec CSS :
+
+<img width="603" height="727" alt="Capture d’écran 2025-11-09 à 23 19 06" src="https://github.com/user-attachments/assets/004680df-51a7-4f43-98c4-2cb3eb94cfc3" />
 
  
