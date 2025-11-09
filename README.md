@@ -6,9 +6,9 @@ Maîtriser les composants React, les props et PropTypes.
 
 ##  Démarrage
 
-```
+
 bash<img width="854" height="305" alt="Capture d’écran 2025-11-09 à 23 09 55" src="https://github.com/user-attachments/assets/79e26512-d7da-49ff-acc4-f63ed57a6780" />
-``
+
 
 Accès : **http://localhost:3000**
 
